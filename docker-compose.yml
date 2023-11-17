@@ -1,4 +1,4 @@
-
+version: "3.3"
 services:
   jupyterlab:
     image: andreper/jupyterlab:3.0.0-spark-3.0.0
